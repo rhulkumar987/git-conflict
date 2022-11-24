@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 hello
 a
 a
@@ -7,3 +8,6 @@ a
 a
 a
 
+=======
+hello punam-nihar
+>>>>>>> 2442eb2955abba2e36bf6982b153512603d76607
